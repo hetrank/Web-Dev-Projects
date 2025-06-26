@@ -1,2 +1,2 @@
-# Web-Dev-Projects
+# BeatBreeze
 All the projects related to my Web Development
